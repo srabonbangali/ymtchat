@@ -17,7 +17,7 @@ This chat is not encrypted, and there is no user authentication.
   `https://jarvis.srabon.net/messages.json`
 
 - ✅ Messages are **sent using**:  
-  `proxy.php` on your own server
+  `proxy.php` 
 
 - ✅ Profile pictures are stored locally in the `/propic/` directory, named by user ID.
 
