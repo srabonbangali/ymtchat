@@ -1,3 +1,13 @@
+# 🌐 YMTChat
+
+**YMTChat** is a public group chat client that anyone can use, clone, and modify.  
+Messages are visible to everyone and are stored in a shared JSON file.  
+This chat is not encrypted, and there is no user authentication.
+
+---
+
+## 🗂️ Project Structure
+
 
 ---
 
